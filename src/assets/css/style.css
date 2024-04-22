@@ -1,0 +1,69 @@
+.sideBar{
+    padding: 40px 20px;
+    background: #F1F2F7;
+    height: 100vh;
+}
+
+.MainBar{
+    padding: 40px 20px;
+    height: 100vh;
+}
+.menu{
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+}
+
+.menuIcon{
+    color: #5A67BA;
+}
+
+.menu li{
+
+    color:  #082431;
+    padding-bottom: 10px;
+}
+
+.Edit{
+    border: none;
+    margin-right: 10px;
+    background: #F5F7FA;
+    color: #61B865;
+}
+
+.Delete{
+    border: none;
+    margin-right: 10px;
+    background: #FEE2E2;
+    color: #F36C6C;
+}
+
+.featureImg{
+    background-position: center;
+    background-size: cover;
+    height: 25vh;
+}
+
+.price{
+    background: #A553F2;
+}
+
+Form label{
+    font-weight: 500;
+}
+
+.formBtn{
+    background: #5A67BA;
+}
+
+
+.formBtn:hover{
+    background: #5A67BA;
+}
+
+.active {
+    background-color: #cfd4fa; /* Example active link background color */
+    color: #5A67BA; /* Example active link text color */
+}
+
+
